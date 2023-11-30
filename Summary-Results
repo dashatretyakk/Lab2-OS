@@ -1,0 +1,11 @@
+Scheduling Type: Batch (SJF preemptive)
+Scheduling Name: Shortest Remaining Time Next (SRTF)
+Simulation Run Time: 3908
+Run Time Average: 1100
+Run Time Standard Deviation: 510
+Block Time Average: 11
+Block Time Standard Deviation: 5
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		847 (ms)	9 (ms)		847 (ms)	94 times
+1		1776 (ms)	17 (ms)		1776 (ms)	104 times
+2		1285 (ms)	12 (ms)		1285 (ms)	107 times
